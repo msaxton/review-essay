@@ -41,4 +41,4 @@ Review essays are NOT summaries or book reports.
 
 
 ### Example
-[Hatcher, Brian. "Getting into Buddhism." _Religious Studies Review_ (1998) 24:4 377-383.](https://onlinelibrary-wiley-com.ezproxy.library.tufts.edu/toc/17480922/1998/24/4)
+[Hatcher, Brian. "Getting into Buddhism: A Look at New and Revised Survey Texts." _Religious Studies Review_ (1998) 24:4 377-383.](https://onlinelibrary-wiley-com.ezproxy.library.tufts.edu/toc/17480922/1998/24/4)
