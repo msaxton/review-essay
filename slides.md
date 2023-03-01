@@ -38,3 +38,7 @@ Review essays are NOT summaries or book reports.
 1. State a question or theme and give a road map for your essay (~10%)
 2. Sustained review (not summary) of each source (~70%)
 3. Respond to possible criticisms  and identify further questions (~20%)
+
+
+### Example
+[Hatcher, Brian. "Getting into Buddhism." _Religious Studies Review_ (1998) 24:4 377-383.](https://onlinelibrary-wiley-com.ezproxy.library.tufts.edu/toc/17480922/1998/24/4)
